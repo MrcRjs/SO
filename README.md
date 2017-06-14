@@ -1,2 +1,2 @@
 # SO
-Código Sistemas Operativos Básico
+Códigos del curso de Sistemas Operativos Básico
